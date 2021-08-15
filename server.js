@@ -15,7 +15,7 @@ app.use(express.static(__dirname + 'public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.get("index", function(req, res) {
+app.get("/", function(req, res) {
     // res.send("Welcome to the Star Wars Page!")
     res.sendFile(path.join(__dirname, "index.html"));
   });
