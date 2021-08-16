@@ -5,9 +5,9 @@
  *
  * Made By MaterializeCSS.com
  */
- #nav-li {
+ /* #nav-li {
    color: black !important;
- }
+ } */
  ul.nav-list {
   font-family: "Audiowide", sans-serif;
 }
@@ -17,7 +17,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #black;
+  color: black;
 }
 
 p {
