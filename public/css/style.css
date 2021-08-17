@@ -25,7 +25,8 @@
  }
  
  #change-font {
-  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+  font-size: 100px;
+  font-family: 'Bebas Neue', cursive;
   text-decoration: underline;
   text-shadow: 2px 2px #1a93c4;
   margin: 5%;
@@ -84,16 +85,15 @@ p {
     height: 150px;
    }
    #change-font {
-    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
     text-decoration: underline;
-    font-size: 45px;
+    font-size: 55px;
    }
    #par-image-1 {
      width: 1000px;
      height: 1000px;
    }
    #banner-div {
-    padding: 5  px;
+    padding: 5px;
    }
 }
 
