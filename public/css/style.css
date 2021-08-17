@@ -16,14 +16,19 @@
   width: 350px;
   height: 350px;
  }
+
+ #banner-div {
+  background-color: rgb(19, 28, 32);
+  padding: 15px;
+  border-radius: 25px;
+  opacity: .8;
+ }
+ 
  #change-font {
   font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
   text-decoration: underline;
   text-shadow: 2px 2px #1a93c4;
- }
- #banner-div {
-  border-radius: 8px;
-  opacity: .8;
+  margin: 5%;
  }
 
  ul.nav-list {
@@ -86,6 +91,9 @@ p {
    #par-image-1 {
      width: 1000px;
      height: 1000px;
+   }
+   #banner-div {
+    padding: 5  px;
    }
 }
 
