@@ -8,6 +8,24 @@
  /* #nav-li {
    color: black !important;
  } */
+ #album-art {
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  border-color: white;
+  padding: 5px;
+  width: 350px;
+  height: 350px;
+ }
+ #change-font {
+  font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+  text-decoration: underline;
+  text-shadow: 2px 2px #1a93c4;
+ }
+ #banner-div {
+  border-radius: 8px;
+  opacity: .8;
+ }
+
  ul.nav-list {
   font-family: "Audiowide", sans-serif;
 }
@@ -56,6 +74,19 @@ p {
     width: 300px;
     height: 200px;
   }
+  #album-art {
+    width: 150px;
+    height: 150px;
+   }
+   #change-font {
+    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+    text-decoration: underline;
+    font-size: 45px;
+   }
+   #par-image-1 {
+     width: 1000px;
+     height: 1000px;
+   }
 }
 
 .icon-block {
