@@ -72,6 +72,23 @@ p {
   #index-banner .section {
     top: 10%;
   }
+  #album-art {
+    width: 200px;
+    height: 200px;
+   }
+   #change-font {
+    text-decoration: underline;
+    font-size: 55px;
+   }
+   #par-image-1 {
+     width: 1000px;
+     height: 1000px;
+   }
+   #banner-div {
+    padding: 20px;
+    position: relative; 
+    top: 75px;
+   }
 }
 
 @media only screen and (max-width : 600px) {
