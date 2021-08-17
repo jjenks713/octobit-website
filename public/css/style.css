@@ -22,6 +22,8 @@
   padding: 15px;
   border-radius: 25px;
   opacity: .8;
+  position: relative; 
+  top: 55px;
  }
  
  #change-font {
@@ -94,6 +96,8 @@ p {
    }
    #banner-div {
     padding: 5px;
+    position: relative; 
+    top: 105px;
    }
 }
 
