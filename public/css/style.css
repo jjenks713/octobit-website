@@ -41,10 +41,6 @@
   height: 100px;
 }
 
-nav ul a,
-nav .brand-logo {
-  color: white;
-}
 
 p {
   line-height: 2rem;
