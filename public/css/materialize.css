@@ -2869,11 +2869,17 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1030px) {
   .hide-on-med-and-down {
     display: none !important;
   }
 }
+@media only screen and (max-width: 1411px) {
+  .hide-social {
+    display: none !important;
+  }
+}
+
 
 @media only screen and (min-width: 601px) {
   .hide-on-med-and-up {
@@ -2881,13 +2887,13 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 600px) and (max-width: 1030px) {
   .hide-on-med-only {
     display: none !important;
   }
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1030px) {
   .hide-on-large-only {
     display: none !important;
   }
@@ -2905,13 +2911,13 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1030px) {
   .show-on-large {
     display: block !important;
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 600px) and (max-width: 1030px) {
   .show-on-medium {
     display: block !important;
   }
@@ -2929,7 +2935,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1030px) {
   .show-on-medium-and-down {
     display: block !important;
   }
@@ -3438,7 +3444,7 @@ table span.badge {
   }
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1030px) {
   .container {
     width: 70%;
   }
@@ -3901,7 +3907,7 @@ table span.badge {
   }
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1030px) {
   .row .col.l1 {
     width: 8.3333333333%;
     margin-left: auto;
@@ -4307,7 +4313,7 @@ nav .nav-wrapper {
   height: 100%;
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1030px) {
   nav a.sidenav-trigger {
     display: none;
   }
@@ -4340,7 +4346,7 @@ nav .brand-logo.center {
           transform: translateX(-50%);
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1030px) {
   nav .brand-logo {
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -4961,7 +4967,7 @@ small {
   }
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1030px) {
   #toast-container {
     top: 10%;
     right: 7%;
@@ -7699,7 +7705,7 @@ input[type=range]::-ms-thumb {
   left: auto;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1030px) {
   .sidenav.sidenav-fixed {
     -webkit-transform: translateX(-105%);
             transform: translateX(-105%);
