@@ -7572,7 +7572,8 @@ input[type=range]::-ms-thumb {
 .sidenav li > a {
   color: rgba(0, 0, 0, 0.87);
   display: block;
-  font-size: 14px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
   font-weight: 500;
   height: 48px;
   line-height: 48px;
@@ -7736,7 +7737,7 @@ input[type=range]::-ms-thumb {
   padding: 0;
 }
 
-.sidenav-overlay {
+/* .sidenav-overlay {
   position: fixed;
   top: 0;
   left: 0;
@@ -7746,7 +7747,7 @@ input[type=range]::-ms-thumb {
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 997;
   display: none;
-}
+} */
 
 /*
     @license
