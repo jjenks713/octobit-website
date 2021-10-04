@@ -18,7 +18,7 @@
  }
 
  #banner-div {
-  background-color: rgb(19, 28, 32);
+  background-color: rgba(19, 28, 32, 0.801);
   padding: 15px;
   border-radius: 25px;
 /*   opacity: .8;
