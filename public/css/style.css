@@ -8,6 +8,9 @@
  /* #nav-li {
    color: black !important;
  } */
+ #par-image-1 {
+  content: url("assets/RS-square.jpg");
+}
  #album-art {
   border: 2px solid #ddd;
   border-radius: 4px;
@@ -185,6 +188,9 @@ p {
    #iframe {
     width: 300px;
     height: 200px;
+  }
+  #par-image-1 {
+    content: url("/assets/RS-square.jpg");
   }
 }
 @media only screen and (max-width : 350px) {
