@@ -190,7 +190,7 @@ p {
     height: 200px;
   }
   #par-image-1 {
-    content: url("/assets/RS-square.jpg");
+    content: url("/assets/7-circ.jpg");
   }
 }
 @media only screen and (max-width : 350px) {
