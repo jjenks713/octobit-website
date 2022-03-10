@@ -190,7 +190,7 @@ p {
     height: 200px;
   }
   #par-image-1 {
-    content: url("/assets/destiny.png");
+    content: url("/assets/haunt.jpg");
   }
 }
 @media only screen and (max-width : 350px) {
